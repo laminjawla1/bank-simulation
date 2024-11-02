@@ -1,0 +1,42 @@
+{
+    "dbdcf34a-2c29-4ee2-a9d1-192f779acd82": {
+        "first_name": "Lamin",
+        "last_name": "Jawla",
+        "username": "ljawla",
+        "password": "$2b$12$hoLI8rmpeXLEwtxwu1vsSuP96WedNirH3afXmoZHvEmi2Ma1k52Tq",
+        "balance": 3924.0,
+        "withdrawal_count": 2,
+        "deposit_count": 19,
+        "user_id": "dbdcf34a-2c29-4ee2-a9d1-192f779acd82"
+    },
+    "b27cb6aa-87f6-4ebc-b86f-27d13486c6cf": {
+        "first_name": "Mariama",
+        "last_name": "Samateh",
+        "username": "msamateh",
+        "password": "$2b$12$WxHIJRt3nhYv2XsHVnyRp.PRM55hOw8MmoqstDgHgwJ1d6mCvxZRq",
+        "balance": 1046.0,
+        "withdrawal_count": 1,
+        "deposit_count": 4,
+        "user_id": "b27cb6aa-87f6-4ebc-b86f-27d13486c6cf"
+    },
+    "34e299c6-915e-4493-b7d0-5755561c4d4b": {
+        "first_name": "Test",
+        "last_name": "Test",
+        "username": "test",
+        "password": "$2b$12$oRk891r0jRCFX.97u3h9DuyiFBvDdmpHSu2Kx/nOhspJUcow6UN7G",
+        "balance": 0,
+        "withdrawal_count": 0,
+        "deposit_count": 0,
+        "user_id": "34e299c6-915e-4493-b7d0-5755561c4d4b"
+    },
+    "5995351f-278b-4656-b73e-7a31ef2299bb": {
+        "first_name": "Fawzan",
+        "last_name": "Jawla",
+        "username": "fawzan",
+        "password": "$2b$12$40pCQSdzGLCikxFHj4X54.k8OMRYi6Fkt8wZj5cFFRm9nKEhDD3om",
+        "balance": 0,
+        "withdrawal_count": 0,
+        "deposit_count": 0,
+        "user_id": "5995351f-278b-4656-b73e-7a31ef2299bb"
+    }
+}

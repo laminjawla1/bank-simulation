@@ -1,0 +1,18 @@
+{
+    "70ef4924-e6ac-4284-b518-7b4aaa20f67d": {
+        "username": "msamateh",
+        "debit": "",
+        "credit": 700.0,
+        "balance": 1700.0,
+        "entry_id": "70ef4924-e6ac-4284-b518-7b4aaa20f67d",
+        "date": "2024-11-02T15:59:55.412453"
+    },
+    "5a3847c7-5a57-45a1-a396-209a42ef2e8b": {
+        "username": "msamateh",
+        "debit": 654.0,
+        "credit": "",
+        "balance": 1046.0,
+        "entry_id": "5a3847c7-5a57-45a1-a396-209a42ef2e8b",
+        "date": "2024-11-02T16:00:02.375410"
+    }
+}
